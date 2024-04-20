@@ -11,18 +11,18 @@
     "discordbot",
     "modmail"
   ],
-  "author": "lrmn7",
+  "author": "dawgcodes",
   "license": "AGPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lrmn7/modmail.git"
+    "url": "https://github.com/dawgcodes/modmail-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/lrmn7/modmail#issues"
+    "url": "https://github.com/dawgcodes/modmail-bot#issues"
   },
-  "homepage": "https://github.com/lrmn7/modmail#readme",
+  "homepage": "https://github.com/dawgcodes/modmail-bot#readme",
   "emails": {
-    "issues": "lrmn.dev@gmail.com"
+    "issues": "contact@reedroux.biz"
   },
   "dependencies": {
     "colors": "^1.4.0",
