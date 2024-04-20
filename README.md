@@ -35,7 +35,7 @@
 - ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge) Git [Download](https://git-scm.com/downloads)
 ---
 
-![ui](.github/assets/installing.png)
+![ui](.installing.png)
 
 1. Check `config.js` and Change the name of **.env.example** to **.env** and fill in the required information.
 2. run `npm install` to install the required packages.
