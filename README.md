@@ -1,7 +1,6 @@
 <br />
 <p align="center">
   <a href="https://reedroux.biz/support">
-    <img src=".github/assets/modmailsbanner.png" alt="ModMail" >
   </a>
 
   <h1 align="center">MODMAIL BOT DISCORD</h1>
