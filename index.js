@@ -1,4 +1,4 @@
-const { SQLiteDatabase } = require('mewwme-sqlite');
+const { SQLiteDatabase } = require('modmail-reedroux-sqlite');
 const { CommandsHandler, EventsHandler } = require('horizon-handler');
 const {
     Client,
