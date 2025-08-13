@@ -49,11 +49,3 @@ module.exports = {
     time,
     permissionsCalculator
 };
-
-
-/*
-* Discord.js Version 14.14.1
-* MODMAIL
-* Developer: L RMN
-* Support server: https://discord.gg/mewwme
-*/
